@@ -12,7 +12,7 @@ The project seeks to analyze a question of interest, which can be framed within 
 
 1. Choosing your time series (Friday June 12th).
 
-For the project, each group must select a dataset of their choice where the analysis can be performed using a time series model. There are many sources of time series data on the Internet. Government agencies are some of the best sources. But be resourceful. It is better to find a data set is from a process that interests you. Use a recent time-series, also try to avoid a tipical stock-price / exchange rates series. The selected time series must be sent no later than Friday, June 12 11:59 pm, through Sicua +, for approval.
+For the project, each group must select a dataset of their choice where the analysis can be performed using a time series model. There are many sources of time series data on the Internet. Government agencies are some of the best sources. But be resourceful. It is better to find a data set is from a process that interests you. Use a recent time-series, also try to avoid a typical stock-price / exchange rates series. The selected time series must be sent no later than Friday, June 12 11:59 pm, through Sicua +, for approval.
 
 The analysis of the data must consider:
 
